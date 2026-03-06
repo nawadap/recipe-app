@@ -1,0 +1,56 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Pâtes carbonara",
+      "description": "Les vraies pâtes à la romaine",
+      "ingredients": [
+        "spaghetti",
+        "œufs",
+        "pecorino",
+        "guanciale",
+        "poivre"
+      ],
+      "steps": [
+        "Faire revenir le guanciale",
+        "Battre les œufs avec le fromage",
+        "Mélanger le tout hors du feu"
+      ],
+      "prepTime": 20,
+      "category": "plat"
+    },
+    {
+      "title": "Salade Césarx",
+      "description": "Une salade fraîche et savoureuse",
+      "ingredients": [
+        "laitue",
+        "poulet",
+        "parmesan",
+        "croûtons",
+        "sauce César"
+      ],
+      "steps": [
+        "Griller le poulet",
+        "Laver la laitue",
+        "Mélanger tous les ingrédients"
+      ],
+      "prepTime": 15,
+      "category": "entrée",
+      "id": "2"
+    },
+    {
+      "id": "9d9c",
+      "title": "q",
+      "description": "q",
+      "ingredients": [
+        "qq"
+      ],
+      "steps": [
+        "q"
+      ],
+      "prepTime": 1,
+      "category": "entrée"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
